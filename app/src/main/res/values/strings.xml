@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodieApp</string>
+    <string name="Foodie">Foodie</string>
+    <string name="Full_Name">Full Name</string>
+    <string name="Email_Id">Email Id</string>
+    <string name="Phone_No">Phone No</string>
+    <string name="Address">Address</string>
+    <string name="Pin_Code">Pin Code</string>
+    <string name="Register">Register</string>
+    <string name="get_started">Get Started</string>
+</resources>
